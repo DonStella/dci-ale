@@ -1,0 +1,57 @@
+body{
+    background-color: aquamarine; 
+    color: #D9360D;
+}
+
+
+header{
+    background-image: url(images/header.jpg);
+    background-size: cover;
+    height: 130px;
+    opacity: 0.7;
+    
+}
+            
+
+h1{
+    font-family: 'Beth Ellen', cursive;
+    text-align: center;
+    font-size: 50px;
+    word-spacing: .5em;
+    font-weight: bolder;
+
+}
+
+nav{
+    background-color: #BF6E4E;
+    text-align: center;
+    
+}
+
+nav a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 12px;
+    color:antiquewhite;
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+    position:sticky;
+    
+}
+        
+nav a:hover{
+    background-color:#FFA15E;
+            
+    }
+    
+
+section{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    border: 1px dashed;
+    margin-top: 15px;
+    margin-bottom: 15PX;
+    
+    
+        
+}
